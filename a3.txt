@@ -1,10 +1,1 @@
-<<<<<<< HEAD
 Filea3.txt commit from master
-||||||| 8ad6d52
-=======
-<<<<<<< HEAD
-FIle a3.txt commit from branch1
-=======
-Filea3.txt commit from master
->>>>>>> 49018de (A3 commit from master)
->>>>>>> branch1
